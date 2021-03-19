@@ -18,3 +18,11 @@ img{
     display: block;
     padding: 100px
 }
+header{
+    color: darkgreen;
+    border-bottom: black;
+}
+#favorite{
+    color: darkblue;
+    border:black;
+}
